@@ -240,9 +240,9 @@ it('correctly calculates the quotient of 10 and 2', () => {
 })
 ```
 
-We will create and export all our functions in **test.js**...
+We will create and export all our functions in **operations.js**...
 
-<div class="filename">test.js</div>
+<div class="filename">operations.js</div>
 
 ```js
 const add = (x, y) => +x + +y
